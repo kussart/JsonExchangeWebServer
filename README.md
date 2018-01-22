@@ -10,7 +10,6 @@ We can use only required fields({"name":"newName", "email":"newEmail"}), other f
 <br>
 example of full JSON request:<br>
 {<br>
-    "id": 1,<br>
     "name": "Artem",<br>
     "email": "artem@gmail.com",<br>
     "status": "Online",<br>
